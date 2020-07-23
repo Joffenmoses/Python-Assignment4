@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 #Assignment 1
 text='What we think we became; we are Python programmers'
@@ -22,9 +17,9 @@ while flag:
         flag=False
 
 
-# In[29]:
 
 
+#Assignment 2
 t1='What we think we became we are Python programmers'
 t2='letsupgrage'
 t3='LETSUPGRADE'
@@ -36,7 +31,7 @@ print(t2.isupper())
 print(t3.isupper())
 
 
-# In[ ]:
+
 
 
 
